@@ -33,7 +33,7 @@
   "main": "./lib",
   "dependencies": {
     "passport-oauth1": "1.x.x",
-    "passport-oauth2": "1.x.x"
+    "passport-oauth2": "mykabam/passport-oauth2"
   },
   "devDependencies": {
     "mocha": "1.x.x",
